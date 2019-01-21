@@ -1,4 +1,5 @@
 # PlotHoles
+Checkout the full project [here](https://github.com/shrikanth7698/Plotholes-Android)! 
 
 ### The Problem
 
